@@ -1,0 +1,45 @@
+.comment-section{
+margin-left: 20px;
+}
+h3{
+    padding-top:30px;
+}
+
+.btn-1{
+    margin-top: 20px;
+    display: block;
+    width:300px;
+    padding: 5px;
+    border-radius: 3px;
+}
+.btn-2{
+    margin-top: 20px;
+    display: block;   
+    width:300px;
+    padding: 5px; 
+    border-radius: 3px;
+
+}
+.btn-3{
+    margin-top: 20px;
+    display: block;
+    width:310px;
+   padding-top: 40px;
+   padding-bottom: 40px;
+   border-radius: 3px;
+
+}
+button{
+    margin-top: 20px;
+    background-color: cornflowerblue;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+img{
+   
+    border-radius: 30px;
+    padding:5px;
+    display: block;
+}
